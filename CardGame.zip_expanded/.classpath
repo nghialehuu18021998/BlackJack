@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CardGame/src"/>
+	<classpathentry kind="lib" path="__MACOSX/CardGame/lib/._Validator.jar"/>
+	<classpathentry kind="lib" path="CardGame/lib/Validator.jar"/>
+	<classpathentry kind="lib" path="/CardGame/lib/Validator.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CardGame"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CardGameGUI"/>
+	<classpathentry kind="output" path="CardGame/bin"/>
+</classpath>
